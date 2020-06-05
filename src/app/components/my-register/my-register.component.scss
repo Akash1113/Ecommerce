@@ -1,0 +1,21 @@
+
+.register{
+  height: 100vh;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+box-shadow: 3px 3px lightblue;
+height: auto;
+}
+
+.card-body{
+text-align: center;
+}
+
+.btn{
+margin: 20px;
+}
